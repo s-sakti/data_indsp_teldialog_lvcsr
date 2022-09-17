@@ -1,6 +1,6 @@
 # INDspeech04: INDspeech_TELDIALOG_LVCSR
 
-This is one of the first Indonesian speech datasets for large vocabulary continuous speech recognition (LVCSR). R&D Division of PT Telekomunikasi Indonesia developed the data in 2005-2006, in collaboration with [Advanced Telecommunication Research Institute International (ATR) Japan](https://www.atr.jp/), as the continuation of the Asia-Pacific Telecommunity (APT) project [[Sakti et al., 2004](https://www.isca-speech.org/archive_v0/interspeech_2004/i04_1037.html)]. It has also been successfully used for developing Indonesian LVCSR in 
+This is one of the first Indonesian speech datasets for large vocabulary continuous speech recognition (LVCSR). R&D Division of PT Telekomunikasi Indonesia (TELKOMRisTI) developed the data in 2005-2006, in collaboration with [Advanced Telecommunication Research Institute International (ATR) Japan](https://www.atr.jp/), as the continuation of the Asia-Pacific Telecommunity (APT) project [[Sakti et al., 2004](https://www.isca-speech.org/archive_v0/interspeech_2004/i04_1037.html)]. It has also been successfully used for developing Indonesian LVCSR in 
  the Asian speech translation advanced research (A-STAR) project [[Sakti et al., 2013](https://www.sciencedirect.com/science/article/pii/S0885230811000404)].
 
 ## Text and Speech Resources
